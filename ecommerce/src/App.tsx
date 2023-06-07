@@ -1,6 +1,11 @@
 function App() {
   return (
-    <div className="text-6xl font-bold underline text-center">Hello world!</div>
+    <div
+      className="App text-6xl
+     font-bold underline text-center bg-cyan-300"
+    >
+      Hello world!
+    </div>
   );
 }
 
